@@ -1,0 +1,5 @@
+servers:
+  lobby:
+    motd: '&1Servidor Aternos Web'
+    address: juanbeltry.aternos.me:64234 # ¡Cambia esto por los de Aternos!
+    restricted: false
